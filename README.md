@@ -81,7 +81,7 @@ Languages: HTML (80.7%) | CSS (18.6%) | JavaScript (0.7%)
 ### 7. [Template 3 - HTML & CSS Practice](https://github.com/HassanAbdellah777/Template_Three.git)
 *Practice project from ElZero Web School to improve HTML and CSS skills.*  
 Languages: HTML (50.4%) | CSS (49.6%)  
-[Live Demo](https://hassanabdellah777.github.io/Kasper-HTML-CSS-Template-2/)
+[Live Demo](https://hassanabdellah777.github.io/Template_Three/)
 
 ---
 
