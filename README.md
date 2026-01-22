@@ -33,6 +33,12 @@ I'm a passionate self-learner dedicated to mastering front-end web development. 
 
 ---
 
+## 💻 Experience with Hosting & E-Commerce Platforms
+- Some experience with hosting websites on **Hostinger**.
+- Basic knowledge of **Shopify** platform.
+- Successfully launched a Shopify store for a friend: [Veilla USA](https://veillausa.com/)
+
+---
 
 ## 🚀 My Projects
 
