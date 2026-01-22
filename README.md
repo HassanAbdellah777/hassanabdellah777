@@ -2,34 +2,11 @@
 
 I'm a passionate self-learner dedicated to mastering front-end web development. I primarily learn through YouTube channels, especially El Zero Web School and Tarmeez Academy, by studying comprehensive courses and tutorials . My learning journey includes:
 
-## 📚 Self-Study Resources
 
-### El Zero Web School YouTube Channel
-- **Learn HTML in Arabic 2021** (4 hrs Playlist)  
-  [Playlist Link](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
-
-- **Learn CSS in Arabic 2021** (11 hrs Playlist)  
-  [Playlist Link](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
-
-- **HTML & CSS Templates** (Various Playlists)  
-  - Template One 2021 (2 hrs)  
-    [Playlist Link](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF)  
-  - Template Two 2021 (+3 hrs)  
-    [Playlist Link](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t)  
-  - Template Three 2021 (+4 hrs)  
-    [Playlist Link](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc)  
-  - Template Four 2022 (+6 hrs)  
-    [Playlist Link](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyGaRGzPVZCkYx5L7Mo9Tbh)
-
-- **Learn JavaScript in Arabic 2021** (18 hrs Playlist)  
-  [Playlist Link](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
-
-### Tarmeez Academy
-- **Advanced JavaScript Series** (+22 hrs Playlist)  
-  [Playlist Link](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj)
-
-- **Build Tic Tac Toe Game with JavaScript**  
-  [Video Link](https://www.youtube.com/watch?v=HdpQco3vKBk)
+## 🛠 Technologies & Skills
+- HTML
+- CSS
+- JavaScript
 
 ---
 
@@ -39,6 +16,9 @@ I'm a passionate self-learner dedicated to mastering front-end web development. 
 - Successfully launched a Shopify store for a friend: [Veilla USA](https://veillausa.com/)
 
 ---
+
+
+
 
 ## 🚀 My Projects
 
@@ -82,30 +62,37 @@ Languages: HTML (16.3%) | CSS (31.2%) | JavaScript (52.5%)
 Languages: HTML (80.7%) | CSS (18.6%) | JavaScript (0.7%)  
 [Live Demo](https://hassanabdellah777.github.io/Template_Four_HTMl_CSS_JS/)
 
+
+## 📚 Self-Study Resources
+
+### El Zero Web School YouTube Channel
+- **Learn HTML in Arabic 2021** (4 hrs Playlist)  
+  [Playlist Link](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
+
+- **Learn CSS in Arabic 2021** (11 hrs Playlist)  
+  [Playlist Link](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
+
+- **HTML & CSS Templates** (Various Playlists)  
+  - Template One 2021 (2 hrs)  
+    [Playlist Link](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF)  
+  - Template Two 2021 (+3 hrs)  
+    [Playlist Link](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t)  
+  - Template Three 2021 (+4 hrs)  
+    [Playlist Link](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc)  
+  - Template Four 2022 (+6 hrs)  
+    [Playlist Link](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyGaRGzPVZCkYx5L7Mo9Tbh)
+
+- **Learn JavaScript in Arabic 2021** (18 hrs Playlist)  
+  [Playlist Link](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+
+### Tarmeez Academy
+- **Advanced JavaScript Series** (+22 hrs Playlist)  
+  [Playlist Link](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj)
+
+- **Build Tic Tac Toe Game with JavaScript**  
+  [Video Link](https://www.youtube.com/watch?v=HdpQco3vKBk)
+
 ---
-
-### 7. [Template 3 - HTML & CSS Practice](https://github.com/HassanAbdellah777/Template_Three.git)
-*Practice project from ElZero Web School to improve HTML and CSS skills.*  
-Languages: HTML (50.4%) | CSS (49.6%)  
-[Live Demo](https://hassanabdellah777.github.io/Template_Three/)
-
----
-
-### 8. [Kasper - HTML & CSS Template 2](https://github.com/HassanAbdellah777/Kasper-HTML-CSS-Template-2.git)
-*A clean HTML and CSS template from ElZero Web School.*  
-Languages: HTML (43.8%) | CSS (56.2%)  
-[Live Demo](https://hassanabdellah777.github.io/Kasper-HTML-CSS-Template-2/)
-
----
-
-### 9. [My First Template HTML & CSS](https://github.com/HassanAbdellah777/My_Frist_Template_Html_CSS.git)
-*My First Template using HTML and CSS from ElZero Web School.*  
-Languages: HTML (50.2%) | CSS (49.8%)  
-[Live Demo](https://hassanabdellah777.github.io/My_Frist_Template_Html_CSS/)
-## 🛠 Technologies & Skills
-- HTML
-- CSS
-- JavaScript
 
 ## 📫 How to reach me
 - [GitHub Profile](https://github.com/HassanAbdellah777)
