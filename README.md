@@ -29,7 +29,7 @@ I'm a passionate self-learner dedicated to mastering front-end web development. 
   [Playlist Link](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj)
 
 - **Build Tic Tac Toe Game with JavaScript**  
-  [Video Link](https://www.youtube.com/watch?v=HdpQco3vKBk&list=PLYyqC4bNbCIdbwZVeXL4635fAFnWukkqi&index=1)
+  [Video Link](https://www.youtube.com/watch?v=HdpQco3vKBk)
 
 ---
 
