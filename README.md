@@ -1,24 +1,11 @@
 # Hi there! 👋 I'm Hassan Abdellah
 
-I'm a passionate self-learner dedicated to mastering front-end web development. I primarily learn through YouTube channels, especially El Zero Web School and Tarmeez Academy, by studying comprehensive courses and tutorials . My learning journey includes:
-
-
-## 🛠 Technologies & Skills
-- HTML
-- CSS
-- JavaScript
+I'm a passionate self-learner dedicated to mastering front-end web development. I primarily learn through YouTube channels, especially 
+- El Zero Web School
+-  Tarmeez Academy,
+By studying comprehensive courses and tutorials .
 
 ---
-
-## 💻 Experience with Hosting & E-Commerce Platforms
-- Some experience with hosting websites on **Hostinger**.
-- Basic knowledge of **Shopify** platform.
-- Successfully launched a Shopify store for a friend: [Veilla USA](https://veillausa.com/)
-
----
-
-
-
 
 ## 🚀 My Projects
 
@@ -62,7 +49,16 @@ Languages: HTML (16.3%) | CSS (31.2%) | JavaScript (52.5%)
 Languages: HTML (80.7%) | CSS (18.6%) | JavaScript (0.7%)  
 [Live Demo](https://hassanabdellah777.github.io/Template_Four_HTMl_CSS_JS/)
 
+---
 
+## 💻 Experience with Hosting & E-Commerce Platforms
+- Some experience with hosting websites on **Hostinger**.
+- Basic knowledge of **Shopify** platform.
+- Successfully launched a Shopify store for a friend: [Veilla USA](https://veillausa.com/)
+
+---
+##  My learning journey includes:
+ 
 ## 📚 Self-Study Resources
 
 ### El Zero Web School YouTube Channel
@@ -91,6 +87,13 @@ Languages: HTML (80.7%) | CSS (18.6%) | JavaScript (0.7%)
 
 - **Build Tic Tac Toe Game with JavaScript**  
   [Video Link](https://www.youtube.com/watch?v=HdpQco3vKBk)
+
+---
+
+## 🛠 Technologies & Skills
+- HTML
+- CSS
+- JavaScript
 
 ---
 
