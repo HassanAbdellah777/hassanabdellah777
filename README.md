@@ -2,8 +2,8 @@
 
 I'm a passionate self-learner dedicated to mastering front-end web development. I primarily learn through YouTube channels, especially 
 - El Zero Web School
--  Tarmeez Academy,
-By studying comprehensive courses and tutorials .
+- Tarmeez Academy
+- By studying comprehensive courses and tutorials .
 
 ---
 
