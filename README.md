@@ -2,8 +2,7 @@
 
 I'm a passionate self-learner dedicated to mastering front-end web development. I primarily learn through YouTube channels, especially 
 - El Zero Web School
-- Tarmeez Academy
-- By studying comprehensive courses and tutorials .
+- Tarmeez Academy -
 
 ---
 
@@ -57,6 +56,7 @@ Languages: HTML (80.7%) | CSS (18.6%) | JavaScript (0.7%)
 - Successfully launched a Shopify store for a friend: [Veilla USA](https://veillausa.com/)
 
 ---
+
 ##  My learning journey includes:
  
 ## 📚 Self-Study Resources
