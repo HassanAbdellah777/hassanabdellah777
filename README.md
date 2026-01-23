@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Hassan Abdellah
 
-I'm a passionate self-learner dedicated to mastering front-end web development. I primarily learn through YouTube channels, especially 
+I'm a passionate self-learner dedicated to mastering front-end web development and Ecommerce. I primarily learn through YouTube channels, especially 
 - El Zero Web School
-- Tarmeez Academy -
+- Tarmeez Academy 
 
 ---
 
