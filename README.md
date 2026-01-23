@@ -15,38 +15,44 @@ Languages: HTML (67.4%) | JavaScript (32.6%)
 
 ---
 
-### 2. [Tic-Tac-Toe Game](https://github.com/HassanAbdellah777/TIC-TAC-TOE.git)
+### 2. [Template Four - HTML, CSS & JS](https://github.com/HassanAbdellah777/Template_Four_HTMl_CSS_JS.git)
+*A practice project incorporating HTML, CSS, and JavaScript from ElZero Web School.*  
+Languages: HTML (80.7%) | CSS (18.6%) | JavaScript (0.7%)  
+[Live Demo](https://hassanabdellah777.github.io/Template_Four_HTMl_CSS_JS/)
+
+---
+
+### 3. [Prayer Times](https://github.com/HassanAbdellah777/PrayerTimes.git)
+*A web app that displays prayer times using the Prayer Times API.*  
+Languages: HTML (22.0%) | CSS (38.5%) | JavaScript (39.5%)  
+[Live Demo](https://hassanabdellah777.github.io/PrayerTimes/)
+
+
+
+---
+
+### 4. [Tic-Tac-Toe Game](https://github.com/HassanAbdellah777/TIC-TAC-TOE.git)
 *A classic Tic-Tac-Toe game built for self-study at Tarmeez Academy.*  
 Languages: HTML (12.4%) | CSS (26.6%) | JavaScript (61.0%)  
 [Live Demo](https://hassanabdellah777.github.io/TIC-TAC-TOE/)
 
 ---
 
-### 3. [Users and Posts API](https://github.com/HassanAbdellah777/Users-and-Posts-API.git)
+### 5. [Users and Posts API](https://github.com/HassanAbdellah777/Users-and-Posts-API.git)
 *API project practicing user and post data handling from Tarmeez Academy.*  
 Languages: HTML (5.2%) | CSS (16.2%) | JavaScript (78.6%)  
 [Live Demo](https://hassanabdellah777.github.io/Users-and-Posts-API/)
 
 ---
 
-### 4. [Prayer Times](https://github.com/HassanAbdellah777/PrayerTimes.git)
-*A web app that displays prayer times using the Prayer Times API.*  
-Languages: HTML (22.0%) | CSS (38.5%) | JavaScript (39.5%)  
-[Live Demo](https://hassanabdellah777.github.io/PrayerTimes/)
 
----
-
-### 5. [Google Fonts API Font Generator](https://github.com/HassanAbdellah777/Google-Fonts-API.git)
+### 6. [Google Fonts API Font Generator](https://github.com/HassanAbdellah777/Google-Fonts-API.git)
 *A sleek web app to visualize text in various Google Fonts, including Arabic support.*  
 Languages: HTML (16.3%) | CSS (31.2%) | JavaScript (52.5%)  
 [Live Demo](https://hassanabdellah777.github.io/Google-Fonts-API/)
 
 ---
 
-### 6. [Template Four - HTML, CSS & JS](https://github.com/HassanAbdellah777/Template_Four_HTMl_CSS_JS.git)
-*A practice project incorporating HTML, CSS, and JavaScript from ElZero Web School.*  
-Languages: HTML (80.7%) | CSS (18.6%) | JavaScript (0.7%)  
-[Live Demo](https://hassanabdellah777.github.io/Template_Four_HTMl_CSS_JS/)
 
 ---
 
